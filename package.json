@@ -1,0 +1,21 @@
+{
+  "name": "jOrgChart",
+  "version": "0.1.0",
+  "description": "jQuery OrgChart is a plugin that allows you to render structures with nested elements in a easy-to-read tree structure",
+  "main": "jquery.jOrgChart.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisballen/jOrgChart.git"
+  },
+  "keywords": [
+    "jquery",
+    "org-chart"
+  ],
+  "author": "wesnolte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wesnolte/jOrgChart/issues"
+  },
+  "homepage": "https://github.com/wesnolte/jOrgChart"
+}
